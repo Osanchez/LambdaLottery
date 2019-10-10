@@ -137,5 +137,4 @@ def scrap_winning_numbers():
 
 
 if __name__ == "__main__":
-    pass
-    # print(get_winning_numbers("Mass cash"))
+    print(get_winning_numbers("Mass cash"))
